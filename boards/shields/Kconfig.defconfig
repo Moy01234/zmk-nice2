@@ -1,6 +1,6 @@
 if SHIELD_JamesKB
 
-  config ZMK_KEYBOARD_NAME
-    defaut "JamesKB"
+config ZMK_KEYBOARD_NAME
+  default "JamesKB"
 
-  endif
+endif
