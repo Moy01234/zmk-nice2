@@ -1,2 +1,0 @@
-config SHIELD_JamesKB
-  def_bool $(shields_list_contains, JamesKB)
