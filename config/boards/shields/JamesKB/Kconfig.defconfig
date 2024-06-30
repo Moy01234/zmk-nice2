@@ -4,3 +4,4 @@ config ZMK_KEYBOARD_NAME
   default "JamesKB"
 
 endif
+
