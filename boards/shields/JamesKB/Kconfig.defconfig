@@ -1,6 +1,0 @@
-if SHIELD_JAMESKB
-
-config ZMK_KEYBOARD_NAME
-  default "JamesKB"
-
-endif
