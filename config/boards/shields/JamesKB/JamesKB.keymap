@@ -8,11 +8,11 @@
 
     default_layer {
       bindings = <
-        &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A
-        &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A
-        &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A
-        &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A  &kp KP_A
+        &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A
+        &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A
+        &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A
+        &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A &kp A
       >;
     };
-};
+  };
 };
